@@ -1,0 +1,15 @@
+h6{
+    padding-left: 290px;
+    color: rgb(211, 219, 219);
+}
+.card-text{
+    padding-left: 80px;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
